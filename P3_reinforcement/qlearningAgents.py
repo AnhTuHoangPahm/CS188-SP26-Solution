@@ -44,6 +44,7 @@ class QLearningAgent(ReinforcementAgent):
 
         "*** YOUR CODE HERE ***"
 
+
     def getQValue(self, state, action):
         """
           Returns Q(state,action)
@@ -52,6 +53,7 @@ class QLearningAgent(ReinforcementAgent):
         """
         "*** YOUR CODE HERE ***"
         util.raiseNotDefined()
+
 
 
     def computeValueFromQValues(self, state):
@@ -64,6 +66,7 @@ class QLearningAgent(ReinforcementAgent):
         "*** YOUR CODE HERE ***"
         util.raiseNotDefined()
 
+
     def computeActionFromQValues(self, state):
         """
           Compute the best action to take in a state.  Note that if there
@@ -72,6 +75,7 @@ class QLearningAgent(ReinforcementAgent):
         """
         "*** YOUR CODE HERE ***"
         util.raiseNotDefined()
+        
 
     def getAction(self, state):
         """
