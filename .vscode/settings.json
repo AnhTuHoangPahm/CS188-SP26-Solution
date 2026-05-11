@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "iomanip": "cpp",
-        "set": "cpp",
-        "vector": "cpp"
-    },
-    "cmake.sourceDirectory": "C:/cswithsangphan/SDL2/SDL2-2.28.5/test",
-    "C_Cpp.errorSquiggles": "disabled"
-}
